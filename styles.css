@@ -41,3 +41,12 @@ ul > li {
 ol li:nth-child(odd){
   background-color: green;
 }
+[title="Bitmaker"]:hover {
+  text-decoration: none;
+}
+ul > li:hover {
+  background-color: yellow;
+}
+ul > li:active {
+  background-color: red;
+}

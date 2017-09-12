@@ -16,3 +16,6 @@ header {
 .item {
   border: 1px solid red;
 }
+.even {
+  background-color: grey;
+}

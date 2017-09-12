@@ -7,3 +7,6 @@ html {
 h1, h2 {
   font-family: "Arya", "Pragati Narrow", "News Cycle", sans-serif;
 }
+header {
+  border-bottom: 3px solid black;
+}
